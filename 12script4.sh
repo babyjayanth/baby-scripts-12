@@ -11,5 +11,5 @@ echo "\$5 Value = $5"
 echo "\$# Value = $#"
 echo "\$$ Value = $$"
 ############
-baby=`expr $1 + $2 + $3 - $4 + $5`
+baby=`expr $1 + $2 + $3 + $4 + $5`
 echo "baby value=$baby"
